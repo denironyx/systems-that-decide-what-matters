@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "notes"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for notes"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from notes"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of notes"
             }
           }
         ]
@@ -170,21 +170,22 @@
   },
   "active": "153169b48254e0fc",
   "lastOpenFiles": [
+    "further-notes.md",
+    "Welcome.md",
+    "15-open-questions",
+    "14-case-studies-and-experiments",
+    "12-mathematical-foundations",
+    "12-case-studies-and-experiments",
+    "11-system-and-architecture",
+    "11-case-studies-and-experiments",
     "notes.md",
     "Appendix.md",
     "13-reading-log",
     "12-open-questions",
     "11-case-studies-and-projects",
     "10-trust-and-cryptography",
-    "06-inference-systems",
-    "07-reasoning",
-    "09-attention-and-memory",
-    "08-decision-systems",
-    "08-decision-system",
-    "07-reasoning-and-memory",
     "README.md",
     "2025-12-30.md",
-    "Welcome.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
