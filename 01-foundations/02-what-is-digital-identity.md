@@ -8,13 +8,32 @@ This is the functional definition of identity, as it's helps in building, managi
 
 
 ---
-Identity is how we recognize, remember and respond to specific people and things. Identity systems acquire, correlate, apply, reason over, and govern information assets of subjects, identifiers, attributes, raw data, and context.
+Identity is how we recognize, remember and respond to specific people and things. **%% Identity systems %%** acquire, correlate, apply, reason over, and govern information assets of subjects, identifiers, attributes, raw data, and context.
 
 This definition has proven to be useful over the years in thinking through thorny identity issues. 
 
 The identity record for a car includes attributes that the systems needs to recognize it: in this case, the VIN. The title also includes attributes that are useful to people and organization who care about (that is, need to respond to) the car, including the owner, the state and potential buyers. The government runs a system for managing titles that is used to create, manage, transfer, and govern vehicles (remember, them). The system is designed to achieve it's primary (to record valuable property that the state has an interest in taxing and regulating) and secondary goals (protecting potential buyers and creating a way to prove ownership)
 
+Digital identity management consists of processes for creating, managing, using and eventually destroying digital records.. These records might identify a person, a car, a computer, a piece of land, or almost anything else. 
+
 ### The Language of Digital identity
 
 
+A subject/entity is a person, organization, software program, machine, place or other thing in some record. 
+
+One of the key purposes of an identity system is to authenticate that the subject is who they claim to be and authorize requests to access a resource. A resource might be a web page, a piece of data in a database, or even credit card transaction. 
+
+To gain access to the resource, the subject lays claim to an identity record. For people, this is usually called an account. 
+
+> In this thinking, an identity record is a collection of data about a subject that represent attributes, preferences and traits.
+
+- Attributes: describe information about a subject, specifically of characteristics that are acquired, eg drug allergy, purchase, bank balance etc.
+- Preferences: Represent desires and defaults such as preferred seating on an airline, favourite brand, airline etc.
+- Traits: Like attributes, traits are features of the subject, but they are inherent rather than acquired. Attributes changes at anytime, but traits change slowly, if at all. eg. eye colour, where a company was incorporate, place of birth.
+
+Attributes are mostly used to mean the three subject representation in an identity record. 
+
+> One of the main purpose of an identity system is to authorize specific actions.
+
+---
 
