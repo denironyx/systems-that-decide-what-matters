@@ -12,4 +12,5 @@
 ## **Open Questions:**
 - What are identity and access management system (IAM) and why is it a multibillion dollar industry?
 	- What are the new concepts, products, and services that appeared in the last 2-5 years
-- 
+- Considering copy the five mental model of identity, here - https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/topics-and-advance-readings/five-mental-models-of-identity.md 
+- https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/topics-and-advance-readings/functional-identity-primer.md

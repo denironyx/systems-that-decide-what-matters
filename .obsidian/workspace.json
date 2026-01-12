@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16-contributors-and-experts/01-human-identity-and-digital-identity-tenet.md",
+                "file": "01-foundations/02-what-is-digital-identity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-human-identity-and-digital-identity-tenet"
+              "title": "02-what-is-digital-identity"
             }
           }
         ]
@@ -170,11 +170,12 @@
   "active": "153169b48254e0fc",
   "lastOpenFiles": [
     "01-foundations/01-the-nature-of-identity-and-digital-identity.md",
-    "Welcome.md",
+    "01-foundations/02-what-is-digital-identity.md",
     "13-reading-log/week-01.md",
+    "16-contributors-and-experts/01-human-identity-and-digital-identity-tenet.md",
+    "Welcome.md",
     "02-entity-resolution/01-what-is-entity-resolution.md",
     "15-open-questions/01-understanding-human-identity.md",
-    "16-contributors-and-experts/01-human-identity-and-digital-identity-tenet.md",
     "create a link.md",
     "notes.md",
     "15-open-questions/02-digital-identity.md",
