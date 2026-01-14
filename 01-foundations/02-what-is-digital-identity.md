@@ -66,4 +66,6 @@ whether the customer is entitled to credit in the necessary amount and sends a c
 authorization (ADA). Upon receiving this, the clerk completes the transaction.
 
 
-> We usually speak of 
+> We usually speak of in the singular, but subjects, especially people, have multiple identities. From an internal point of view, these seem like different faces of our singular identity, but other entities have a specific view that corresponds to only a subset of our internal view. 
+
+The bank sees me as someone, my travel app see me as another, and the government see me as someone else.  All stored at different databases depending on the specific relationship that databases was meant to support. The multiple identities, or personas, as they are sometime called, are tied together by a few common data element (correlating attributes). These systems uses correlating attributes - my name, address, social security number, and birthday as keys for accessing them, however imperfectly.
