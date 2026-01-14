@@ -37,3 +37,33 @@ Attributes are mostly used to mean the three subject representation in an identi
 
 ---
 
+**Identity in the Physical World**
+
+To see how, consider a common transaction: buying beer at a US convenience store.
+
+When a customer (the subject or entity) wants to buy beer (perform an action on a
+resource), they are required to submit proof that they are of legal drinking age, usually
+by presenting a driver’s license. A driver’s license is a credential containing claims
+asserting that the subject has certain attributes and traits and permissions that
+authorize the holder to drive a car (perform an action). The clerk (PEP) examines the
+license to see if it looks real (determines the authenticity and validity of the credential)
+and uses the picture (embedded biometric authentication factor) to see if the
+person presenting the license is the same person who owns it (authenticates the
+license). Once certain that the license is authentic and is being presented by the person
+to whom it was issued, the clerk reads the birth date (an attribute) from the
+license and determines whether the person is over 21 (consults a security policy
+determined by the state and makes a policy decision about permissions associated
+with the identity for a particular resource).
+
+Now, suppose the person pays with a credit card (a separate identity credential). The
+clerk has just seen the driver’s license and thus can establish the validity of this credential
+by matching the name on it to the name on the driver’s license (attribute
+matching). The clerk runs the card through the point-of-sale terminal, which transmits
+to the bank the cardholder’s name, credit card number, and expiration date
+(identity attributes) and requests credit (authorization request) in the amount necessary
+to buy the beer (the resource to be accessed). The bank (PDP) determines
+whether the customer is entitled to credit in the necessary amount and sends a credit
+authorization (ADA). Upon receiving this, the clerk completes the transaction.
+
+
+> We usually speak of 
