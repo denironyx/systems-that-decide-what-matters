@@ -66,6 +66,76 @@ whether the customer is entitled to credit in the necessary amount and sends a c
 authorization (ADA). Upon receiving this, the clerk completes the transaction.
 
 
+Digital Identity Perspectives.
+
+
 > We usually speak of in the singular, but subjects, especially people, have multiple identities. From an internal point of view, these seem like different faces of our singular identity, but other entities have a specific view that corresponds to only a subset of our internal view. 
 
 The bank sees me as someone, my travel app see me as another, and the government see me as someone else.  All stored at different databases depending on the specific relationship that databases was meant to support. The multiple identities, or personas, as they are sometime called, are tied together by a few common data element (correlating attributes). These systems uses correlating attributes - my name, address, social security number, and birthday as keys for accessing them, however imperfectly.
+
+
+---
+
+Tiers of Identity
+
+Andre Durand, the founder and CEO Ping Identity introduced the concept of tiers of identity back in 2002..  At the bottom is Tier 1
+
+Tier (my identity) 1 consists of traits associated with the subject that are both timeless and unconditional; my name is Dennis irorere, I have blue eyes and so on. 
+
+Tier (shared identity) 2 consists of attributes assigned to us by others. These are attributes are shared because they are used to identify the individual but are issued temporarily based on some kind of relationship. This could be driver license, employee badge, credit card, passport, issurance card, library card. your wallet is full of those.. And examples of identity information that is assigned to you. Once the relationship that defines the identity is terminated the attributes associated with it are no longer useful.  This ususally happen with you consent from registering on traveling site, or ecommerce site 
+
+The topmost layer Tier 3 Abstracted Identity: establishes group identity. for example I could be identified as Birmingham black male late 20s, companies may classify us as frequent flier, or first-time customer, cookies fall under this, your likes, clicks etc. All these grouping identify me in some way, but only abstractly. Tier 3 is largely about marketing.. And it's very crucial now, more than ever as this is what help the business understand some of the things you do. 
+
+Tier 2 identity relationships may happen with your consent or not, but most are welcome
+because they are based on a relationship that probably has value to you. Tier 3
+relationships, on the other hand, are usually forced on us. For example, email spam is
+a Tier 3 identity issue, as are telephone solicitations and even TV advertisements.
+Online surveillance is one of the defining realities
+of the modern Web 2.0 experience. Tier 3 identities are inaccurate, imprecise, and
+nonspecific, so they rarely meet a real need for their subjects, for whom the benefit is
+so small as to be inconsequential. Most people perceive Tier 3-based relationships as bothersome and resent them. However, companies realize significant benefit from
+such relationships and invest large amounts of money collecting, understanding and managing them (some goes as far as bridging tier2 to tier3). This is where bunch of analytics and data science model is trained upon, and using social theory, as based the goal is to understand a lot of this arbitrary identities or behaviours of millions of users inorder to be able to predict or model other peoples behaviour. and finding ways to connect tier 3 to tier 2 and finally tier 1.
+
+---
+
+Control
+
+
+Another way to view digital identity is in terms of its locus of control—who or what
+controls the relationship. Control has several factors, including:
+• Who initiates the relationship?
+• Who owns the identifier (in other words, who can take it away)?
+• Who sets the rules governing interactions?
+• Who determines how attributes are shared?
+
+
+At the bottom of the diagram, with the lowest level of autonomy, is a category I call
+administrative. The vast majority of identity systems in use today are administrative,
+built and operated for the purpose of an organization. The organization determines
+its system’s rules of operation, what attributes are allowed, how they are used, and
+whether and where they can be shared. Often the sharing is opaque, with the person
+who is the subject having little insight into how the identity system is being used or
+by whom.
+In 2004, with the rise of Web 2.0 and its seemingly insatiable appetite for accounts,
+identity professionals began talking about identity systems, called user-centered, that
+would give people a higher degree of autonomy (the middle category of Figure 2-4).
+From those discussions, protocols such as OpenID and OAuth were born. These gave
+rise to social login, the ability to federate an account from one service, often a social
+media account, to another.
+
+Using your Twitter account to login to Medium is an
+example of this. Social logins are user-centric because the person chooses what
+account to use (from a small list) and is redirected from the relying party (such as
+Medium) to the identity provider (in this case Twitter) to approve the account sharing. Autonomy is limited in this model because the acceptable identity providers
+are chosen by the relying party, and the account being used as the foundation (Twitter)
+is still administrative, with all the limits that implies
+
+
+Since 2015, many people have been building a new model called self-sovereign identity
+(SSI). In contrast to administrative and user-centered identity systems—with the
+basis for the relationship being identifiers and interactions dictated by one side—parties
+in an SSI-based relationship exchange identifiers that can be mutually authenticated
+using cryptographic means. This relationship provides a trustworthy channel for
+exchanging protocol-mediated messages that can be tailored to the needs of the
+interaction.
+The word sovereign
