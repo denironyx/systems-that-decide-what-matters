@@ -159,3 +159,5 @@ This repository reflects personal learning and experimentation.
 Opinions and mistakes are my own.
 
 If you’re interested in similar problems around identity, trust, and decision systems, feel free to explore, reference, or reach out.
+
+website: denniseirorere.com 
