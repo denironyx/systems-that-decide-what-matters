@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-foundations/02-what-is-digital-identity.md",
+                "file": "13-reading-log/week-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-what-is-digital-identity"
+              "title": "week-02"
             }
           }
         ]
@@ -169,10 +169,10 @@
   },
   "active": "153169b48254e0fc",
   "lastOpenFiles": [
+    "01-foundations/02-what-is-digital-identity.md",
     "13-reading-log/week-02.md",
     "13-reading-log/week-01.md",
     "15-open-questions/01-understanding-human-identity.md",
-    "01-foundations/02-what-is-digital-identity.md",
     "01-foundations/01-the-nature-of-identity-and-digital-identity.md",
     "16-contributors-and-experts/01-human-identity-and-digital-identity-tenet.md",
     "Welcome.md",
