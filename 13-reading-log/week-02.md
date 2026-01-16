@@ -13,3 +13,5 @@ Entity in an identity system is the subject of an identity record (identity refe
 
 Relationship is an important aspect of identity, every human interactions in the physical world is relationship based, and same applies to the digital realms. 
 
+
+
