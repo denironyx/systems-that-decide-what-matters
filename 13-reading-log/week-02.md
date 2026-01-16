@@ -1,5 +1,7 @@
 # Reading-note
 
+- Started reading about Spatial perspectives, and identity from humanity and social science point of view https://courses.ems.psu.edu/geog571/node/149
+
 
 # Ah Ah Moment
 
