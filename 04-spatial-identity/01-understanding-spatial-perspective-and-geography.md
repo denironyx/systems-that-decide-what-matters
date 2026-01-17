@@ -1,7 +1,7 @@
 
 ## Spatial Perspectives
 
-Inorder to understand spatial identity we first need to go far back to Geography. 
+In order to understand spatial identity we first need to go far back to Geography. 
 
 ### Geography
 
