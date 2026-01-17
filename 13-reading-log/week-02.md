@@ -14,4 +14,13 @@ Entity in an identity system is the subject of an identity record (identity refe
 Relationship is an important aspect of identity, every human interactions in the physical world is relationship based, and same applies to the digital realms. 
 
 
+> self-identification and classification of others creates spaces of inclusion and exclusion
+
+> Identity is consider relational and complex. And people identify in multiple ways simultaneously, and the process of identification creates relationships of inclusion and exclusion, and emotional engagement with identity may vary. 
+
+> Identity is multilayered.. Someone can be black and a woman. intersections of sex, ethnicity, and religion for Muslim women in Britain
+
+
+---
+
 

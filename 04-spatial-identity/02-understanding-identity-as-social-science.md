@@ -1,8 +1,15 @@
 ## Identity in human geography
 
+Disclaimer this is note from a Penn State College of Earth and Mineral Science - Department of Geography.
+
 **Note**:
 
 Identity is consider relational and complex. And people identify in multiple ways simultaneously, and the process of identification creates relationships of inclusion and exclusion, and emotional engagement with identity may vary. 
+
+
+Identity is multilayered.. Someone can be black and a woman
+
+ intersections of sex, ethnicity, and religion for Muslim women in Britain
 
 ---
 Much like culture, **identity** is a slippery concept. In its most basic form, we think of identity as answering the question “Who are you?” — but this is a far more complicated question than it first seems.
@@ -57,3 +64,29 @@ There are a number of forces and agents that create structure and define various
 Just as identities are _socially_ constructed through a critical mass of everyday activity that creates new positionalities through activism and visibility via popular culture and social media, identities are also _discursively_ constructed. 
 
 It is crucial to recognize here that both social and discursive constructions of phenomena (especially identity positions) vary from culture to culture. That is, social constructions (and discursive constructions) are rarely universal. Even if the same designations exist in two different cultures, the policies, beliefs, and expectations surrounding those designations may vary drastically.
+
+### Normalization
+
+it is important to be aware that some identity designations or positions become normalized through the processes of construction. That is, certain designations take on the connotation of being ‘normal’ and are assumed to be the standard, neutral, or ‘unmarked’ (see Tannen, 1993 and Brekhus, 1998) positions — and because of this, these positions are sometimes left as undefined or are presumed to be self-evident, and thus unworthy of inquiry. These positions are typically dominant within a particular culture; those positions that are considered _different_ or _other_ are given new terms. 
+
+In the earliest years, the designation is “Free white males and free white females,” which changes to “White” for the 1850 census and remains unchanged from that point forward. Contrast this with the very visible and more rapidly changing racial designators for everyone else. This is an indicator (along with its status at the top of the list) that “White” is the dominant, unmarked racial designator.
+
+It is important to bear in mind that normalized identities still qualify as identities, even if they are dominant. They may be less obvious because of their dominance, but this does not make them any less effective or important an identity than any other designation.
+
+
+### Intersectionality
+
+The complex interaction between structures of power and people’s multilayered identities is referred to as **intersectionality**. 
+
+Lawyer and legal scholar Kimberlé Crenshaw presented the idea of intersectionality in a landmark paper in 1989, in which she reviewed three court cases that demonstrated the complexity of discrimination that Black women often face in the workplace.
+
+…Black women can experience discrimination in ways that are both similar to and different from those experienced by white women and Black men. Black women sometimes experience discrimination in ways similar to white women's experiences; sometimes they share very similar experiences with Black men. Yet often they experience double-discrimination-the combined effects of practices which discriminate on the basis of race, and on the basis of sex. And sometimes, they experience discrimination as Black women — not the sum of race and sex discrimination, but as Black women. – Kimberlé Crenshaw (1989, p. 149)
+
+
+### Internal and External
+
+So far, we have discussed identity as though it is something that is socially and discursively constructed, but we have also noted that the intensity with which people identify may vary. This suggests that identification as a process is something that people choose to do.
+
+To some extent, this is correct: people do in many cases adopt various social identity designations. Yet this is not always the case. Identification is not a singular process, but one that takes place both internally and externally. Consequently, our identities are something that we might feel or express — but also something that, in some cases, might be imposed upon us. Some theorists conceptualize this as a dichotomy between self-identification and categorization, respectively (see Jenkins, 2008).
+
+In order to understand how identity operates in any given culture, it is important to understand the different ways that self-identification and categorization work. A person might self-identify in some way and not be fully satisfied with what that means for them in society. Yet identities that are imposed upon people are another matter altogether; as Jenkins puts it, “identification by others has _consequences_” (2008, p. 43). For example, a person who is identified by a doctor as being mentally ill may be at risk of being involuntarily hospitalized; likewise, someone who is identified as an “at-risk youth” might face increased scrutiny by teachers or other authority figures — or they might be shuttled into programs intended to prevent criminal activity or provide job training. Identification, especially by social structures that hold some real power within a culture, can have real and significant impacts on people’s lives.
