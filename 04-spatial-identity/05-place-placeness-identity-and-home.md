@@ -33,6 +33,12 @@ And for transnational migrants and refugees alike, home is complicated by experi
 
 We wish to close this section with two final critiques. First, traditional conceptualizations of home are highly localized (usually to a place of residence) — but as Blunt and Dowling (2006) among others point out, home is a multiscalar phenomenon
 
+
+## In summary
+
+home is not just a place, but something that people create, experience, live, reflect upon, and modify — and it can be multiple rather than singular (for example, many students make a distinction between ‘school-home’ and ‘home-home’). Second, no matter how far away from the ideal it may be, _home_ — whether it’s something a person has, something they’ve lost, something that has been damaged, or something they want — is meaningful for people at the psychological scale. Third, although some homes come close to our culturally-mediated ideals, many do not, and the reasons for this vary in intensity and form (e.g., apartments offer less permanence than owner-occupied houses, while home structures that are deteriorating are unsafe; one’s sense of home may be unsettled by something as commonly experienced as feeling like one doesn’t fit in with family members, but also by the dangers of domestic violence; the list goes on).
+
+
 ---
 
 References:
