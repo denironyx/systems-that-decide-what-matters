@@ -20,6 +20,10 @@ Relationship is an important aspect of identity, every human interactions in the
 
 > Identity is multilayered.. Someone can be black and a woman. intersections of sex, ethnicity, and religion for Muslim women in Britain
 
+> Identity of place provides meaning, addressing provides legibility, and personal address provides accountability—together forming the interface through which digital systems act upon physical human life.
+
+
+
 
 ---
 

@@ -55,7 +55,35 @@ Time is usually a part of our experiences of places, for these experiences must 
 
 ***Place, person, time and act form an indivisible unity***. To be oneself one has to be somewhere definite, do certain things at appropriate times.
 
-Everywhere
+Everywhere, wherever and however we are related to being of every kind, identity makes its claim upon us. Thus we recognize the identity of people, place, plans and even nations.
 
+The identityof something relates to a persistent sameness and unity which allows that thing to be differentiated from others. Thus identity is founded both in the same individual person or object and in the culture to which they  belong. It is not static and unchangeable, but varies as circumstances and attitudes change.
+
+As such.. Identity of a place by Kevin Lynch is simply that which provides its individuality or distinction frorm other places and serves as the basis for its recognitions as a separable entity. This tells us only that each place has a unique address, that it is identifiable. 
+
+It's is clear that rather than being a simple address in a gazetteer or a point on a map, identity is a basic feature of our experience of places which both influences and is influenced by those experiences.  What is involved is not merely the recognition of differences and of sameness between places -- but also the much more fundamental act of identifying sameness in difference. And it's  not just the identity of palce that is important, but also the identity that a person or group has with that place in particular whether they are experiencing it as an insider or as an outsider.
+
+
+Physical appearance, activities and meanings are the raw materials of the identity of places, and the dialectical links between them are the elementary structural relations of that identity. 
+
+Attribute of identity which is sometimes know as the spirit of place, sense of place, called character or personality.. This involves topography, and appearance, economic functions and social activites.
 
 Identity of place provides meaning, addressing provides legibility, and personal address provides accountability—together forming the interface through which digital systems act upon physical human life.
+
+
+### What is a place
+
+A place can be as small as the corner of a room or large as the earth itself; that earth is our place in the universe is a simple fact of observation to homesick astronauts. Location can become place overnight, so to speak, through the ingenuity of architectures and engineers. 
+
+A striking monument creates place; a carnival transforms temporarily an abandoned stockyard or cornfield into place; Disneylands are permanent carnivals, places created out of wholecloth. On the other hand, places are locations in which people have long memories, reaching back beyond the indelible impressions of their own individual childhoods to the common lores of bygone generations. One may argue that engineers create localities but time is needed to create place.
+
+It is obvious that most definitions of place are quite arbitrary. Geographers tend to think of place as having the size of a settlement: the plaza within it may be counted a place, but usually not the individual houses, and certainly not that old rocking chair by the fireplace. Architects think on a smaller scale. To many of them places are homes, shopping centres, and public squares that can be taken from the draw¬ ing boards and planted on earth: time, far
+
+
+---
+
+One of the oldest tenets of geography is the concept of place. As a result, place has numerous definitions, from the simple “a space or location with meaning” to the more complex “an area having unique physical and human characteristics interconnected with other places.” There are three key components of place: location, locale, and a sense of place. Location is the position of a particular point on the surface of Earth. Locale is the physical setting for relationships between people, such as the South of France or the Smoky Mountains. Finally, a sense of place is the emotions someone attaches to an area based on their experiences. Place can be applied at any scale and does not necessarily have to be fixed in either time or space.
+
+Additionally, due to globalization, place can change over time as its physical setting and cultures are influenced by new ideas or technologies.
+-> https://education.nationalgeographic.org/resource/resource-library-concept-place/
+

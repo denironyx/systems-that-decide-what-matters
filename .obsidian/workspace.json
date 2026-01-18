@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-spatial-identity/08-place-and-placeness-by-Relph.md",
+                "file": "13-reading-log/words-of-the-month.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-place-and-placeness-by-Relph"
+              "title": "words-of-the-month"
             }
           }
         ],
@@ -184,14 +184,15 @@
   },
   "active": "bff08f84fb901598",
   "lastOpenFiles": [
-    "04-spatial-identity/07-the-address-book-by-mask.md",
     "04-spatial-identity/08-place-and-placeness-by-Relph.md",
+    "04-spatial-identity/Untitled.md",
+    "13-reading-log/words-of-the-month.md",
+    "13-reading-log/week-02.md",
+    "04-spatial-identity/07-the-address-book-by-mask.md",
     "04-spatial-identity/06-place-placeness-and-home.md",
     "04-spatial-identity/05-place-placeness-identity-and-home.md",
-    "13-reading-log/word-of-the-week.md",
     "04-spatial-identity/04-borders-boundaries-identity-and-conflicts.md",
     "04-spatial-identity/03-space-place-and-identity.md",
-    "13-reading-log/week-02.md",
     "04-spatial-identity/02-understanding-identity-as-social-science.md",
     "04-spatial-identity/01-understanding-spatial-perspective-and-geography.md",
     "03-representation/00-notes-to-self.md",
@@ -210,7 +211,6 @@
     "further-notes.md",
     "02-entity-resolution/resources.md",
     "02-entity-resolution/what-is-entity-resolution.md",
-    "Appendix.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
