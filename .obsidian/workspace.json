@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-spatial-identity/06-place-placeness-and-home.md",
+                "file": "04-spatial-identity/07-the-address-book-by-mask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06-place-placeness-and-home"
+              "title": "07-the-address-book-by-mask"
             }
           }
         ],
@@ -182,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bff08f84fb901598",
+  "active": "f760eb7ec447741c",
   "lastOpenFiles": [
-    "04-spatial-identity/05-place-placeness-identity-and-home.md",
     "04-spatial-identity/06-place-placeness-and-home.md",
+    "04-spatial-identity/07-the-address-book-by-mask.md",
+    "04-spatial-identity/05-place-placeness-identity-and-home.md",
     "13-reading-log/word-of-the-week.md",
     "04-spatial-identity/04-borders-boundaries-identity-and-conflicts.md",
     "04-spatial-identity/03-space-place-and-identity.md",
@@ -210,7 +211,6 @@
     "02-entity-resolution/what-is-entity-resolution.md",
     "Appendix.md",
     "README.md",
-    "2025-12-30.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
