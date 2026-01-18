@@ -82,7 +82,9 @@ It is obvious that most definitions of place are quite arbitrary. Geographers te
 
 ---
 
-One of the oldest tenets of geography is the concept of place. As a result, place has numerous definitions, from the simple “a space or location with meaning” to the more complex “an area having unique physical and human characteristics interconnected with other places.” There are three key components of place: location, locale, and a sense of place. Location is the position of a particular point on the surface of Earth. Locale is the physical setting for relationships between people, such as the South of France or the Smoky Mountains. Finally, a sense of place is the emotions someone attaches to an area based on their experiences. Place can be applied at any scale and does not necessarily have to be fixed in either time or space.
+One of the oldest tenets of geography is the concept of place. As a result, place has numerous definitions, from the simple “a space or location with meaning” to the more complex “an area having unique physical and human characteristics interconnected with other places.” 
+
+There are three key components of place: location, locale, and a sense of place. Location is the position of a particular point on the surface of Earth. Locale is the physical setting for relationships between people, such as the South of France or the Smoky Mountains. Finally, a sense of place is the emotions someone attaches to an area based on their experiences. Place can be applied at any scale and does not necessarily have to be fixed in either time or space.
 
 Additionally, due to globalization, place can change over time as its physical setting and cultures are influenced by new ideas or technologies.
 -> https://education.nationalgeographic.org/resource/resource-library-concept-place/
