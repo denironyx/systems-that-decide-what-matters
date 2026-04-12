@@ -127,10 +127,11 @@ The emphasis is on **learning in public with rigor**.
 
 - Identity is a belief, not a fact  
 - Representation matters more than models  
-- Confidence should be first-class data  
+- Confidence should be first class data  
 - Decisions are different from predictions  
 - Systems shape human attention  
-- Automation must remain accountable  
+- Automation must remain accountable 
+- Human should be in the loop 
 
 ---
 
@@ -139,7 +140,7 @@ The emphasis is on **learning in public with rigor**.
 Over time, this work may inform:
 - applied research
 - infrastructure projects
-- open-source tools
+- open source tools
 - writing and talks
 - or production systems
 
@@ -156,6 +157,7 @@ Active, evolving, and intentionally unfinished.
 
 Maintained by Dennis Irorere.  
 This repository reflects personal learning and experimentation.  
+
 Opinions and mistakes are my own.
 
 If you’re interested in similar problems around identity, trust, and decision systems, feel free to explore, reference, or reach out.
