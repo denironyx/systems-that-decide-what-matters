@@ -125,8 +125,8 @@ The emphasis is on **learning in public with rigor**.
 
 ## Guiding Principles
 
-- Identity is a belief, not a fact  
-- Representation matters more than models  
+- Identity is a belief, not a fact  [https://www.scirp.org/reference/referencespapers?referenceid=2756323]
+- Representation matters more than models [https://arxiv.org/html/2512.10794v1] 
 - Confidence should be first class data  
 - Decisions are different from predictions  
 - Systems shape human attention  
